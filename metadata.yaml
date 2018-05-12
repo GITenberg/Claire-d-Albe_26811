@@ -1,0 +1,37 @@
+_repo: Claire-d-Albe_26811
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cottin, Madame (Sophie)
+    aliases:
+    - Ristaud, Sophie
+    - Cottin, Marie Risteau, called Sophie
+    - Ristaud, Marie Sophie
+    - Risteau, Sophie
+    - Risteau, Marie-Sophie
+    - Cottin, Sophie
+    birthdate: 1770
+    deathdate: 1807
+    gutenberg_agent_id: '32253'
+    url: http://www.gutenberg.org/2009/agents/32253
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Sophie_Cottin
+    - http://en.wikipedia.org/wiki/Sophie_Ristaud_Cottin
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2008-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26811'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- 18th century'
+title: Claire d'Albe
+url: http://www.gutenberg.org/ebooks/26811
