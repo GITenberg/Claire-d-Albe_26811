@@ -21,6 +21,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Sophie_Cottin
     - http://en.wikipedia.org/wiki/Sophie_Ristaud_Cottin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26811#Claire-d-Albe
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2008-10-07'
 gutenberg_type: Text
